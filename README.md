@@ -2,7 +2,7 @@
 
 一群高雅人士企鹅组成的 Codex 像素乐团。
 
-每位企鹅演奏一种不同的乐器，每种乐器都是一个可以独立安装和选择的 Codex pet。乐团成员会逐个补充，目前已有萨克斯企鹅、唢呐企鹅和长号企鹅。
+每位企鹅演奏一种不同的乐器，每种乐器都是一个可以独立安装和选择的 Codex pet。乐团成员会逐个补充，目前已有萨克斯企鹅、唢呐企鹅、长号企鹅和长笛企鹅。
 
 ## 当前成员
 
@@ -11,6 +11,7 @@
 | Saxphone Penguin | 萨克斯 | `saxphone` | 已完成 |
 | Suona Penguin | 唢呐 | `suona` | 已完成 |
 | Trombone Penguin | 长号 | `trombone` | 已完成 |
+| Flute Penguin | 长笛 | `flute` | 已完成 |
 
 ## 安装宠物
 
@@ -20,6 +21,7 @@
 %USERPROFILE%\.codex\pets\saxphone
 %USERPROFILE%\.codex\pets\suona
 %USERPROFILE%\.codex\pets\trombone
+%USERPROFILE%\.codex\pets\flute
 ```
 
 然后在 Codex 中打开 **Settings > Pets**，刷新宠物列表并选择想使用的乐团成员。在任务中输入 `/pet` 即可唤出。
@@ -38,7 +40,10 @@ elegant-penguin-orchestra/
 ├── suona/                    # 唢呐企鹅
 │   ├── pet.json
 │   └── spritesheet.webp
-└── trombone/                 # 长号企鹅
+├── trombone/                 # 长号企鹅
+│   ├── pet.json
+│   └── spritesheet.webp
+└── flute/                    # 长笛企鹅
     ├── pet.json
     └── spritesheet.webp
 ```
