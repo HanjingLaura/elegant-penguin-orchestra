@@ -1,0 +1,6 @@
+{
+  "id": "piano",
+  "displayName": "Piano Penguin",
+  "description": "An elegant pixel-art penguin in a fedora and sunglasses performing at one compact black upright piano with both flippers playing different key ranges.",
+  "spritesheetPath": "spritesheet.webp"
+}
