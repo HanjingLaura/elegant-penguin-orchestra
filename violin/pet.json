@@ -1,0 +1,6 @@
+{
+  "id": "violin",
+  "displayName": "Violin Penguin",
+  "description": "An elegant pixel-art penguin that holds one violin between its beak and left shoulder, fingers the neck with its left flipper, and bows with its right flipper.",
+  "spritesheetPath": "spritesheet.webp"
+}
